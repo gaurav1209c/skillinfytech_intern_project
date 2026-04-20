@@ -41,8 +41,6 @@ Exploratory Data Analysis (EDA)
 ----------------------------------------------------
 📂 How to Run the Projects
 ▶️ Python Projects
-Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
 Install required libraries
 pip install pandas numpy matplotlib seaborn
 Open .ipynb files in Jupyter Notebook
